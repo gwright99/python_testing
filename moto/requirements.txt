@@ -1,0 +1,7 @@
+pytest
+moto[ec2,s3,all]
+boto3
+boto3-stubs[s3]
+pytest-socket
+requests-mock
+requests
